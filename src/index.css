@@ -1,0 +1,58 @@
+/* *{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.home-screen{
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.home-screen button{
+  outline: none;
+  padding: 20px;
+  border-radius: 5px;
+  border: none;
+}
+
+.register-screen{
+  
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.register-screen form {
+ 
+  width: 40vw;
+  height: 70vh;
+  background-color: aliceblue;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* flex-direction: column;
+  padding: 20px 20px;
+}
+
+.custom-field {
+  width: 100%;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* gap:10px;
+
+} */
+
+/* .error {
+  color: red;
+} */  
