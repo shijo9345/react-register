@@ -9,7 +9,8 @@ const DisplayPage = () => {
   const { data, setData } = useContext(AppContext);
   const navigate = useNavigate();
   return (
-   <div>
+   <div className='body'>
+    <h1 className='h'>Registration Details</h1>
      <table>
     <thead>
         <tr className="header">
